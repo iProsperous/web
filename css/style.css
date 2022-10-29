@@ -1,0 +1,14 @@
+body {
+  margin:0;
+  padding: 0;
+  background-color: bisque;
+}
+
+section {
+  width: 1170px;
+  margin: auto;
+}
+
+section h1 {
+  color:brown;
+}
